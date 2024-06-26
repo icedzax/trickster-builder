@@ -3,7 +3,7 @@ const store = useStore()
 </script>
 <template>
   <div class="p-4 mx-auto prose md:px-6 prose-indigo sm:rounded-md">
-    <HelloWorld msg="Hello World Component" />
+    <Character msg="Hello World Component" />
 
     <h2>Template Project Features</h2>
 
